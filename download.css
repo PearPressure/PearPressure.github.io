@@ -1,0 +1,10 @@
+html, body {
+    margin: 0;
+    background-color: #EEEEEE;
+}
+
+.topnav {
+    background-color: #92A8D1;
+    width: 100%;
+    max-height: 60px;
+}
