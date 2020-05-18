@@ -34,6 +34,9 @@
 
 .blockone {
     padding: 5px;
-    color: #034f84;
+    background-color: #034f84;
+    width: 100%;
+    height: 100px;
+    color: #ffffff;
     text-align: center;
 }
