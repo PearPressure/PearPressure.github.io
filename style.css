@@ -37,6 +37,33 @@
     background-color: #034f84;
     width: 100%;
     height: 100px;
+}
+
+.blockone h2 {
+    color: #ffffff;
+    text-align: center;
+ }
+
+.blocktwo {
+    padding: 5px;
+    background-color: #034f84;
+    width: 100%;
+    height: 100px;
+}
+
+.blocktwo h2 {
+    color: #ffffff;
+    text-align: center;
+}
+
+.blockthree {
+    padding: 5px;
+    background-color: ;
+    width: 100%;
+    height: 100px;
+}
+
+.blockthree h2 {
     color: #ffffff;
     text-align: center;
 }
